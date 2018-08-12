@@ -5,6 +5,7 @@ import { Component } from "@angular/core";
   template: `
     <h2>Jelte's first Angular App</h2>
     <img src="/assets/images/basic-shield.png/">
+    <nav-bar></nav-bar>
     <events-list></events-list>
   `
 })
